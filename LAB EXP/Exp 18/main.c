@@ -1,9 +1,12 @@
+// Reg No: 192411030
+// Name: Pranav
+// Embedded System - ECA1407
 #include <reg51.h>
 
 sbit PWM = P1^0;
 
 unsigned char count = 0;
-unsigned char duty = 50;   // Change this value (0–200)
+unsigned char duty = 50;   // Change this value (0â€“200)
 
 void timer0_ISR(void) interrupt 1
 {
