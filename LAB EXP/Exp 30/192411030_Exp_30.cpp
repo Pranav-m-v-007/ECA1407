@@ -1,3 +1,6 @@
+// Reg No: 192411030
+// Name: Pranav
+// Embedded System - ECA1407
 #include <systemc.h>
 
 SC_MODULE(rtos_scheduler) {
