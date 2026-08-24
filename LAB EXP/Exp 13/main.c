@@ -1,3 +1,7 @@
+// Reg No: 192411030
+// Name: Pranav
+// Embedded System - ECA1407
+
 #include <reg51.h>
 
 void main(void)
