@@ -1,3 +1,6 @@
+// Reg No: 192411030
+// Name: Pranav
+// Embedded System - ECA1407
 #include <systemc>
 #include <tlm>
 #include <tlm_utils/simple_initiator_socket.h>
